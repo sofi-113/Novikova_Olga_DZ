@@ -1,4 +1,4 @@
-# Задача 2 а)
+# Задание 2 а)
 count=list(range(1,1000,2))
 count_1=[]
 for i in count:
@@ -15,7 +15,7 @@ for i in count_2:
 # print(count_3)
 print(sum(count_3))
 
-# Задача 2 б)
+# Задание 2 б)
 count=list(range(1,1000,2))
 count_1=[]
 for i in count:
