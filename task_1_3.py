@@ -1,3 +1,4 @@
+# Задание 3
 numbers=range(1,101)
 for number in numbers:
     if 0<number<=10 or number>20:
